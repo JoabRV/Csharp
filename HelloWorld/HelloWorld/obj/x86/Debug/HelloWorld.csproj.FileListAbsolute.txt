@@ -1,0 +1,6 @@
+/home/joab/git/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/joab/git/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/home/joab/git/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.AssemblyReference.cache
+/home/joab/git/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/home/joab/git/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/joab/git/C#/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
